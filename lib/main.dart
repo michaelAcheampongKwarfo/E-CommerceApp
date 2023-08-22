@@ -1,9 +1,20 @@
 import 'package:e_commerce_app/presentation/navbar.dart';
+import 'package:e_commerce_app/services/navscreen_provider.dart';
 import 'package:e_commerce_app/widgets/app_colors.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(
+    MultiProvider(
+      providers: [
+        ChangeNotifierProvider(
+          create: (context) => NavScreenNotifier(),
+        ),
+      ],
+      child: const MyApp(),
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -14,6 +25,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Nike E-Commerece',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData.light().copyWith(
         useMaterial3: true,
         scaffoldBackgroundColor: AppColor.backgroundColor,
