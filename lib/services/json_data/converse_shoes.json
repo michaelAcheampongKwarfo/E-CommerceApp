@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Converse Classic Chuck Taylor",
+      "price": 59.99,
+      "image": "https://example.com/converse1.jpg",
+      "description": "The classic Chuck Taylor sneakers from Converse. Timeless design and comfortable fit.",
+      "title": "Classic Chuck Taylor"
+    },
+    {
+      "id": 2,
+      "name": "Converse All Star High Tops",
+      "price": 64.99,
+      "image": "https://example.com/converse2.jpg",
+      "description": "High top All Star sneakers with iconic Converse branding. Available in various colors.",
+      "title": "All Star High Tops"
+    },
+    {
+      "id": 3,
+      "name": "Converse Chuck 70 Vintage",
+      "price": 79.99,
+      "image": "https://example.com/converse3.jpg",
+      "description": "Chuck 70 vintage-style sneakers with enhanced cushioning and classic Converse look.",
+      "title": "Chuck 70 Vintage"
+    },
+    {
+      "id": 4,
+      "name": "Converse Jack Purcell",
+      "price": 69.99,
+      "image": "https://example.com/converse4.jpg",
+      "description": "Jack Purcell sneakers known for their distinctive 'smile' toe cap. Stylish and versatile.",
+      "title": "Jack Purcell"
+    },
+    {
+      "id": 5,
+      "name": "Converse One Star",
+      "price": 54.99,
+      "image": "https://example.com/converse5.jpg",
+      "description": "One Star sneakers with a low-profile design and signature star logo.",
+      "title": "One Star"
+    },
+    {
+      "id": 6,
+      "name": "Converse Chuck Taylor 2-in-1",
+      "price": 89.99,
+      "image": "https://example.com/converse6.jpg",
+      "description": "Innovative Chuck Taylor design that can be converted from high tops to low tops.",
+      "title": "Chuck Taylor 2-in-1"
+    },
+    {
+      "id": 7,
+      "name": "Converse Run Star Hike",
+      "price": 74.99,
+      "image": "https://example.com/converse7.jpg",
+      "description": "Run Star Hike sneakers featuring a chunky platform sole and rugged outsole.",
+      "title": "Run Star Hike"
+    },
+    {
+      "id": 8,
+      "name": "Converse Renew Chuck Taylor",
+      "price": 59.99,
+      "image": "https://example.com/converse8.jpg",
+      "description": "Renew Chuck Taylor sneakers made from recycled materials, environmentally friendly.",
+      "title": "Renew Chuck Taylor"
+    },
+    {
+      "id": 9,
+      "name": "Converse CTAS Leather",
+      "price": 69.99,
+      "image": "https://example.com/converse9.jpg",
+      "description": "CTAS Leather sneakers crafted from premium leather for a sophisticated look.",
+      "title": "CTAS Leather"
+    },
+    {
+      "id": 10,
+      "name": "Converse Chuck Taylor Street Mid",
+      "price": 49.99,
+      "image": "https://example.com/converse10.jpg",
+      "description": "Chuck Taylor Street Mid sneakers with a mid-top design and streetwear-inspired style.",
+      "title": "Chuck Taylor Street Mid"
+    }
+  ]
+  

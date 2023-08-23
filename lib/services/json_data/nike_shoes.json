@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Nike Air Max 90",
+      "price": 129.99,
+      "image": "https://example.com/images/nike_air_max_90.jpg",
+      "description": "The Nike Air Max 90 delivers comfort and timeless style with a premium look and feel. It features a visible Air-Sole unit in the heel for cushioning and impact protection.",
+      "title": "Classic Comfort"
+    },
+    {
+      "id": 2,
+      "name": "Nike Air Force 1",
+      "price": 109.99,
+      "image": "https://example.com/images/nike_air_force_1.jpg",
+      "description": "The Nike Air Force 1 is a classic sneaker known for its iconic design and durable construction. It offers a timeless look that's perfect for both casual and street style.",
+      "title": "Timeless Icon"
+    },
+    {
+      "id": 3,
+      "name": "Nike React Element 55",
+      "price": 139.99,
+      "image": "https://example.com/images/nike_react_element_55.jpg",
+      "description": "The Nike React Element 55 combines comfort and style with a futuristic design. Its React foam cushioning provides a responsive feel for all-day wear.",
+      "title": "Futuristic Comfort"
+    },
+    {
+      "id": 4,
+      "name": "Nike Zoom Pegasus 38",
+      "price": 119.99,
+      "image": "https://example.com/images/nike_zoom_pegasus_38.jpg",
+      "description": "The Nike Zoom Pegasus 38 is a versatile running shoe designed for comfort and performance. It features Zoom Air cushioning and a breathable upper.",
+      "title": "Running Essential"
+    },
+    {
+      "id": 5,
+      "name": "Nike Blazer Mid '77",
+      "price": 89.99,
+      "image": "https://example.com/images/nike_blazer_mid_77.jpg",
+      "description": "The Nike Blazer Mid '77 offers a vintage basketball look with modern comfort. Its classic design and suede upper make it a stylish choice.",
+      "title": "Vintage Vibes"
+    },
+    {
+      "id": 6,
+      "name": "Nike Joyride Run Flyknit",
+      "price": 159.99,
+      "image": "https://example.com/images/nike_joyride_run_flyknit.jpg",
+      "description": "The Nike Joyride Run Flyknit features tiny beads that conform to your foot for cushioning that adapts to every step. It's designed for a smooth and comfortable ride.",
+      "title": "Adaptive Cushioning"
+    },
+    {
+      "id": 7,
+      "name": "Nike Air Max 270",
+      "price": 149.99,
+      "image": "https://example.com/images/nike_air_max_270.jpg",
+      "description": "The Nike Air Max 270 offers maximum cushioning and a bold design. It features the tallest Air unit in the heel for ultimate comfort.",
+      "title": "Maximum Air"
+    },
+    {
+      "id": 8,
+      "name": "Nike Free RN 5.0",
+      "price": 99.99,
+      "image": "https://example.com/images/nike_free_rn_5.jpg",
+      "description": "The Nike Free RN 5.0 is a lightweight and flexible running shoe. Its minimalist design and natural feel make it a great choice for short runs and casual wear.",
+      "title": "Natural Movement"
+    },
+    {
+      "id": 9,
+      "name": "Nike SB Stefan Janoski",
+      "price": 79.99,
+      "image": "https://example.com/images/nike_sb_janoski.jpg",
+      "description": "The Nike SB Stefan Janoski is a skateboarding shoe that offers a low-profile design and excellent boardfeel. It's a favorite among skaters and sneaker enthusiasts.",
+      "title": "Skateboard Essential"
+    },
+    {
+      "id": 10,
+      "name": "Nike Air Zoom Vomero 16",
+      "price": 169.99,
+      "image": "https://example.com/images/nike_air_zoom_vomero_16.jpg",
+      "description": "The Nike Air Zoom Vomero 16 provides plush comfort and responsive cushioning for long runs. Its updated design delivers a smooth and stable ride.",
+      "title": "Long-Distance Partner"
+    }
+  ]
+  

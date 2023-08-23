@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Adidas Ultraboost",
+      "price": 150.99,
+      "image": "https://images.unsplash.com/photo-1521774971864-62e842046145?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
+      "description": "The Adidas Ultraboost is a high-performance running shoe designed for maximum comfort and energy return.",
+      "title": "High-Performance Running Shoe"
+    },
+    {
+      "id": 2,
+      "name": "Adidas Stan Smith",
+      "price": 89.99,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adidas.com%2Fus%2Fstan-smith-lux-shoes%2FHQ6785.html&psig=AOvVaw13UINtYXiFeZaSr6DvD5Yd&ust=1692849549117000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiNjYXl8YADFQAAAAAdAAAAABAF",
+      "description": "The classic Adidas Stan Smith is a timeless sneaker known for its clean design and versatility.",
+      "title": "Iconic Sneaker"
+    },
+    {
+      "id": 3,
+      "name": "Adidas Superstar",
+      "price": 99.50,
+      "image": "https://cdn-images.farfetch-contents.com/12/75/60/77/12756077_26912562_1000.jpg",
+      "description": "The Adidas Superstar is a legendary sneaker with its iconic shell toe and retro style.",
+      "title": "Classic Shell Toe Sneaker"
+    },
+    {
+      "id": 4,
+      "name": "Adidas NMD R1",
+      "price": 129.75,
+      "image": "https://cdn-images.farfetch-contents.com/17/54/72/09/17547209_36503584_1000.jpg",
+      "description": "The Adidas NMD R1 offers a modern and stylish design combined with advanced cushioning technology.",
+      "title": "Modern Lifestyle Sneaker"
+    },
+    {
+      "id": 5,
+      "name": "Adidas Yeezy Boost 350",
+      "price": 249.99,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsneakernews.com%2F2017%2F02%2F16%2Fadidas-yeezy-boost-350-v2-zebra-official-images%2F&psig=AOvVaw3T984gE4hnFGsDM5BPhb9g&ust=1692849994951000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCoqN_m8YADFQAAAAAdAAAAABAE",
+      "description": "Designed in collaboration with Kanye West, the Yeezy Boost 350 offers a unique and fashionable look.",
+      "title": "Fashion-forward Collaboration"
+    },
+    {
+      "id": 6,
+      "name": "Adidas Gazelle",
+      "price": 79.95,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adidas.com%2Fom%2Fen%2Fgazelle-shoes%2FID7005.html&psig=AOvVaw3B5Gkq91KBRwpHls-GEE1E&ust=1692850042086000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPC90_Hm8YADFQAAAAAdAAAAABAE",
+      "description": "The Adidas Gazelle is a classic suede sneaker known for its retro style and comfort.",
+      "title": "Vintage Suede Sneaker"
+    },
+    {
+      "id": 7,
+      "name": "Adidas EQT Support",
+      "price": 109.50,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kicksonfire.com%2Fadidas-eqt-support-9317-cargo-khaki-light-beige%2F&psig=AOvVaw3IVgvuz9yUSghbuQ-7KPqE&ust=1692850096401000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiP5onn8YADFQAAAAAdAAAAABAF",
+      "description": "The Adidas EQT Support combines a distinctive '90s aesthetic with modern performance features.",
+      "title": "'90s Inspired Design"
+    },
+    {
+      "id": 8,
+      "name": "Adidas Falcon",
+      "price": 94.99,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adidas.co.uk%2Ffalcon-shoes%2FB28128.html&psig=AOvVaw14kIAvpGuKhV7WqVi4dHEt&ust=1692850143530000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiasqDn8YADFQAAAAAdAAAAABAE",
+      "description": "The Adidas Falcon offers a chunky and bold design, celebrating the '90s retro trend.",
+      "title": "Chunky Retro Sneaker"
+    },
+    {
+      "id": 9,
+      "name": "Adidas AlphaBounce",
+      "price": 89.75,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tradeinn.com%2Frunnerinn%2Fen%2Fadidas-alphabounce-beyond-running-shoes%2F136701746%2Fp&psig=AOvVaw1XoZxGGXCPAYDyYaypaPIW&ust=1692850205312000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCvxL3n8YADFQAAAAAdAAAAABAE",
+      "description": "The Adidas AlphaBounce provides exceptional cushioning and support for both running and casual wear.",
+      "title": "Versatile Athletic Shoe"
+    },
+    {
+      "id": 10,
+      "name": "Adidas Tubular Shadow",
+      "price": 79.99,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffootwearnews.com%2Fshoes%2Foutdoor-footwear%2Fadidas-tubular-shadow-yeezy-boost-alternative-290786%2F&psig=AOvVaw25o4XbafAyET0V9nTjFMmD&ust=1692850248594000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjEi9Ln8YADFQAAAAAdAAAAABAE",
+      "description": "The Adidas Tubular Shadow features a sleek and minimalist design, perfect for street-style looks.",
+      "title": "Minimalist Street Sneaker"
+    }
+  ]
+  

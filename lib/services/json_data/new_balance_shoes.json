@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "New Balance Fresh Foam 1080",
+      "price": 149.99,
+      "image": "https://example.com/images/shoe1.jpg",
+      "description": "Experience cushioning like never before with the Fresh Foam 1080. Designed for runners seeking maximum comfort and support.",
+      "title": "Ultimate Comfort Running Shoe"
+    },
+    {
+      "id": 2,
+      "name": "New Balance FuelCell Propel",
+      "price": 129.99,
+      "image": "https://example.com/images/shoe2.jpg",
+      "description": "Elevate your running game with the FuelCell Propel. Its responsive cushioning and sleek design make it a top choice for performance.",
+      "title": "Responsive Performance Running Shoe"
+    },
+    {
+      "id": 3,
+      "name": "New Balance 990v5",
+      "price": 174.99,
+      "image": "https://example.com/images/shoe3.jpg",
+      "description": "A classic reinvented. The 990v5 combines timeless style with modern comfort, making it a must-have for sneaker enthusiasts.",
+      "title": "Iconic Lifestyle Sneaker"
+    },
+    {
+      "id": 4,
+      "name": "New Balance Fresh Foam Hierro",
+      "price": 139.99,
+      "image": "https://example.com/images/shoe4.jpg",
+      "description": "Tackle the trails with confidence in the Fresh Foam Hierro. Its rugged outsole and plush cushioning provide stability on uneven terrain.",
+      "title": "Trail-Ready Cushioned Hiking Shoe"
+    },
+    {
+      "id": 5,
+      "name": "New Balance 574",
+      "price": 79.99,
+      "image": "https://example.com/images/shoe5.jpg",
+      "description": "A timeless classic, the 574 offers a versatile style that complements your casual look. Its retro design never goes out of fashion.",
+      "title": "Classic Retro Sneaker"
+    },
+    {
+      "id": 6,
+      "name": "New Balance Fresh Foam Cruz",
+      "price": 89.99,
+      "image": "https://example.com/images/shoe6.jpg",
+      "description": "Step into comfort with the Fresh Foam Cruz. Its sleek silhouette and plush cushioning make it perfect for everyday wear.",
+      "title": "Everyday Lifestyle Sneaker"
+    },
+    {
+      "id": 7,
+      "name": "New Balance FuelCell Echo",
+      "price": 109.99,
+      "image": "https://example.com/images/shoe7.jpg",
+      "description": "Push your limits with the FuelCell Echo. Its energy-returning cushioning helps you achieve your best performance on the track.",
+      "title": "High-Performance Track Shoe"
+    },
+    {
+      "id": 8,
+      "name": "New Balance 1500",
+      "price": 129.99,
+      "image": "https://example.com/images/shoe8.jpg",
+      "description": "Experience speed and style with the 1500. Designed for runners who demand lightweight responsiveness and a sleek look.",
+      "title": "Speed-focused Running Shoe"
+    },
+    {
+      "id": 9,
+      "name": "New Balance Fresh Foam Roav",
+      "price": 99.99,
+      "image": "https://example.com/images/shoe9.jpg",
+      "description": "Roam the streets in comfort with the Fresh Foam Roav. Its versatile design and plush cushioning make it an urban essential.",
+      "title": "Urban Comfort Lifestyle Sneaker"
+    },
+    {
+      "id": 10,
+      "name": "New Balance Minimus Prevail",
+      "price": 119.99,
+      "image": "https://example.com/images/shoe10.jpg",
+      "description": "Take your training to the next level with the Minimus Prevail. Its minimalist design offers lightweight support for gym workouts.",
+      "title": "Minimalist Cross-Training Shoe"
+    }
+  ]
+  

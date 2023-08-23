@@ -15,7 +15,7 @@ class BottomNav extends StatelessWidget {
       builder: (context, navScreenNotifier, child) {
         return Container(
           margin: const EdgeInsets.symmetric(horizontal: 10.0, vertical: 5.0),
-          padding: const EdgeInsets.all(12.0),
+          padding: const EdgeInsets.all(10.0),
           decoration: BoxDecoration(
             color: AppColor.blackColor,
             borderRadius: BorderRadius.circular(30.0),
